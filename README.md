@@ -24,8 +24,6 @@ This project explores the **GDP per Capita dataset**, utilizing **Python & Panda
 - 🔄 **Data Cleaning & Handling Missing Values:** `df.fillna(0, inplace=True)`  
 - 📊 **Visualization:** `sns.barplot(x='Country', y='IMF_Estimate', data=df)`  
 
-## 🖼 **Dashboard Preview**  
-![GDP Analysis Dashboard](dashboard_image.png)  
 
 ## 🎨 **Why This Project Stands Out?**  
 ✅ **Efficient Data Handling with Pandas** – Structured data querying & filtering  
